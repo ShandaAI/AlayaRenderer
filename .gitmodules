@@ -1,0 +1,3 @@
+[submodule "inverse_renderer"]
+	path = inverse_renderer
+	url = https://github.com/nv-tlabs/cosmos-transfer1-diffusion-renderer.git

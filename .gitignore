@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model weights
+checkpoints/
+*.pt
+*.pth
+*.safetensors
+*.bin
+
+# Data
+outputs/
+results/
+*.mp4
+*.avi
+*.mov
+
+# Logs
+logs/
+wandb/
+*.log
