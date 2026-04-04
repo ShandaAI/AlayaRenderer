@@ -21,6 +21,7 @@ https://github.com/user-attachments/assets/adb79a5d-160c-4b13-a521-7ddb7a140e51
 
 ## 📢 Update
 
+- [2026.04.04] We have launched an online demo for Game Editing: **[Game Editing Demo](https://huggingface.co/spaces/Brian9999/game-editing)**
 - [2026.04.03] We have released our paper — discussions and feedback are warmly welcome!
 
 
@@ -89,7 +90,7 @@ CUDA_VISIBLE_DEVICES=0 python \
     --num_frames 81 --height 480 --width 832
 ```
 
-<!-- Try the demo: **[Game Editing Demo](https://huggingface.co/spaces/Brian9999/game-editing)** 🚧 -->
+Try the demo: **[Game Editing Demo](https://huggingface.co/spaces/Brian9999/game-editing)**
 ## 📋 TODO
 
 - [ ] Release dataset.
