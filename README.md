@@ -10,7 +10,7 @@ AI-native Renderer for Games and Virtual Worlds, with Data and Tools
 [![Demo](https://img.shields.io/badge/%F0%9F%A4%97-%20Demo-f0b030)](https://huggingface.co/spaces/Brian9999/game-editing)
 [![arXiv](https://img.shields.io/badge/arXiv-2604.02329-b31b1b.svg)](https://arxiv.org/abs/2604.02329)
 
-[![English](https://img.shields.io/badge/English-aaa)](README.md) | [![中文](https://img.shields.io/badge/中文-aaa)](docs/README_CN.md) | [![日本語](https://img.shields.io/badge/日本語-aaa)](docs/README_JA.md) | [![한국어](https://img.shields.io/badge/한국어-aaa)](docs/README_KO.md)
+[![English](https://img.shields.io/badge/English-aaa)](README.md)  [![中文](https://img.shields.io/badge/中文-aaa)](docs/README_CN.md)  [![日本語](https://img.shields.io/badge/日本語-aaa)](docs/README_JA.md)  [![한국어](https://img.shields.io/badge/한국어-aaa)](docs/README_KO.md)
 
 </div>
 
