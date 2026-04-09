@@ -1,14 +1,18 @@
 <div align="center">
 
-## Generative World Renderer
-AI-native Renderer for Games and Virtual Worlds, with Data and Tools
+<img src="./assets/renderer_icon_white.png" alt="Generative World Renderer">
+
+面向游戏与虚拟世界的 AI 原生渲染器，附带数据与工具<br>
+<em>AI-native Renderer for Games and Virtual Worlds, with Data and Tools</em>
 
 [![Project Page](https://img.shields.io/badge/Project-Page-2ea44f)](https://alaya-studio.github.io/renderer/)
+[![arXiv](https://img.shields.io/badge/arXiv-2604.02329-b31b1b.svg)](https://arxiv.org/abs/2604.02329)
+[![Demo](https://img.shields.io/badge/%F0%9F%A4%97-%20Demo-f0b030)](https://huggingface.co/spaces/Brian9999/game-editing) 
 [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=N5CQ5WWIA_8)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/alayastd/status/2039903025096187937?s=61)
 [![Daily Paper](https://img.shields.io/badge/%F0%9F%A4%97-%20Daily%20Paper-yellow)](https://huggingface.co/papers/2604.02329)
-[![Demo](https://img.shields.io/badge/%F0%9F%A4%97-%20Demo-f0b030)](https://huggingface.co/spaces/Brian9999/game-editing)
-[![arXiv](https://img.shields.io/badge/arXiv-2604.02329-b31b1b.svg)](https://arxiv.org/abs/2604.02329)
+
+
 
 [![English](https://img.shields.io/badge/English-aaa)](README.md)  [![中文](https://img.shields.io/badge/中文-aaa)](docs/README_CN.md)  [![日本語](https://img.shields.io/badge/日本語-aaa)](docs/README_JA.md)  [![한국어](https://img.shields.io/badge/한국어-aaa)](docs/README_KO.md)
 
@@ -20,7 +24,6 @@ AI-native Renderer for Games and Virtual Worlds, with Data and Tools
 >
 > Zheng-Hui Huang, Zhixiang Wang, Jiaming Tan, Ruihan Yu, Yidan Zhang, Bo Zheng, Yu-Lun Liu, Yung-Yu Chuang, Kaipeng Zhang -->
 
-https://github.com/user-attachments/assets/adb79a5d-160c-4b13-a521-7ddb7a140e51
 
 
 ## 📢 Update
