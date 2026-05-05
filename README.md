@@ -2,7 +2,6 @@
 
 <img src="./assets/renderer_icon_white.png" alt="Generative World Renderer">
 
-面向游戏与虚拟世界的 AI 原生渲染器，附带数据与工具<br>
 <em>AI-native Renderer for Games and Virtual Worlds, with Data and Tools</em>
 
 [![Project Page](https://img.shields.io/badge/Project-Page-2ea44f)](https://alaya-studio.github.io/renderer/)
